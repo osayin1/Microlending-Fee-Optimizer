@@ -4,7 +4,9 @@ This repository contains an IPython Notebook I created for my Insight Data Scien
 
 Predictive modeling of losses from loans was performed with a Random Forest model that used pre-disbursement features as well as features that reflected the current repayment behavior. Validation was carried out on an independent test set which yielded a predicted-R<sup>2</sup> of 0.70. Though the performance is not perfect, it is reasonably robust for the purpose of this project as what ultimately matters is the aggregate loss (per country) which is used in computing the proposed fee. To this end, total predicted loss deviated by only 2.3% from the actual on the validation set. 
 
-The slides that describe the project in more detail can be found at http://www.slideboom.com/presentations/1274240/Ozan-Sayin---Insight-Data-Science-Project
+The slides that describe the project in more detail can be found at: http://www.slideboom.com/presentations/1274240/Ozan-Sayin---Insight-Data-Science-Project
+
+ 
 
 
 
