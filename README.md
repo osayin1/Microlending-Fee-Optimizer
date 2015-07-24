@@ -6,7 +6,7 @@ Predictive modeling of losses from loans was performed with a Random Forest mode
 
 The slides that describe the project in more detail can be found at: http://www.slideboom.com/presentations/1274240/Ozan-Sayin---Insight-Data-Science-Project
 
- 
+The source of the data is a proprietary MySQL database; hence the queries I wrote to manipulate tables and to create new ones I am unable to share. The front end (intended for the company itself) I created that proposes a fee for each country based on the state of the active loans can be found at: http://www.zidishafeeoptimizer.com/ 
 
 
 
